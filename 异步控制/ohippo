@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+        
+<meta charset="UTF-8">
+<!-- Google SEO -->
+<title>oHippo.com</title>
+<meta name="description" content="oHippo.com is a cool website which provides funny images, quizzes, and social games. Enjoy it!"/>
+<meta name="robots" content="all">
+<meta name="google" content="notranslate" />
+
+<!-- Icon -->
+<link rel="shortcut icon" href="/style/quiz/pc/images/favicon1.ico" type="image/x-icon">
+
+<!-- Facebook Web Meta -->
+<meta property="og:url"                content="http://ohippo.com">
+<meta property="og:title"              content="oHippo.com">
+<meta property="og:description"        content="oHippo.com is a cool website which provides funny images, quizzes, and social games. Enjoy it!">
+<meta property="og:image"              content="http://static.ohippo.com/quiz/others/ohippo_bg.png">
+<meta property="og:image:width"        content="800">
+<meta property="og:image:height"       content="450">
+<meta property="fb:app_id"             content="734225890053777">
+<meta property="og:type"               content="website">
+<meta property="og:locale"             content="en_us">
+
+<!-- Twitter Web Meta -->
+<meta name="twitter:card"              content="summary_large_image">
+<meta name="twitter:site"              content="@ohippocom">
+<meta name="twitter:title"             content="oHippo.com">
+<meta name="twitter:description"       content="oHippo.com is a cool website which provides funny images, quizzes, and social games. Enjoy it!">
+<meta name="twitter:image"             content="http://static.ohippo.com/quiz/others/ohippo_bg.png">
+
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    
+    <!-- Google Analytics for oHippo.com -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-83811911-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+    
+
+
+        <meta property="fb:pages" content="1714753988553818,1185485171508382,123969001569089" />
+        <link rel="stylesheet" href="/style/quiz/pc/css/reset_d2946b18cb.css">
+        <link rel="stylesheet" href="/style/quiz/pc/css/home_3df7179c70.css">
+    
+</head>
+
+<body>
+    
+        
+    <header class="header">
+        <div class="header-center">
+            <a class="header-logo" href="/"></a>
+            <div class="header-nav">
+                
+                    <a href="http://ohippo.com/topic/27">Quiz</a>
+                
+                    <a href="http://ohippo.com/topic/28">Funny</a>
+                
+                <a href="http://horoscope.ohippo.com">Horoscope</a>
+                <a href="#" id="header-more">More</a>
+            </div>
+            <div class="header-login" id="header-login"></div>
+        </div>
+    </header>
+    <div class="more-nav-items" id="more-nav-items">
+        <div class="sub-items">
+            
+                <div><a href="http://ohippo.com/topic/58">TV Shows</a></div>
+            
+                <div><a href="http://ohippo.com/topic/40">Harry Potter</a></div>
+            
+                <div><a href="http://ohippo.com/topic/39">Game</a></div>
+            
+                <div><a href="http://ohippo.com/topic/52">Star Wars</a></div>
+            
+                <div><a href="http://ohippo.com/topic/31">Comics</a></div>
+            
+                <div><a href="http://ohippo.com/topic/85">Fashion</a></div>
+            
+                <div><a href="http://ohippo.com/topic/47">Observation</a></div>
+            
+                <div><a href="http://ohippo.com/topic/50">Sherlock Holmes</a></div>
+            
+                <div><a href="http://ohippo.com/topic/46">Music</a></div>
+            
+                <div><a href="http://ohippo.com/topic/49">Pets</a></div>
+            
+                <div><a href="http://ohippo.com/topic/42">Love</a></div>
+            
+                <div><a href="http://ohippo.com/topic/51">Sports</a></div>
+            
+                <div><a href="http://ohippo.com/topic/32">Cute</a></div>
+            
+                <div><a href="http://ohippo.com/topic/45">Movies</a></div>
+            
+                <div><a href="http://ohippo.com/topic/54">Super Hero</a></div>
+            
+                <div><a href="http://ohippo.com/topic/43">Make-Up</a></div>
+            
+                <div><a href="http://ohippo.com/topic/56">Travel</a></div>
+            
+                <div><a href="http://ohippo.com/topic/48">Personality</a></div>
+            
+                <div><a href="http://ohippo.com/topic/36">Final Fantasy</a></div>
+            
+                <div><a href="http://ohippo.com/topic/29">Assassin's Creed</a></div>
+            
+                <div><a href="http://ohippo.com/topic/38">Friends</a></div>
+            
+                <div><a href="http://ohippo.com/topic/30">Clothes</a></div>
+            
+                <div><a href="http://ohippo.com/topic/44">Marvel Studio</a></div>
+            
+                <div><a href="http://ohippo.com/topic/57">Trivia</a></div>
+            
+                <div><a href="http://ohippo.com/topic/55">The Big Bang Theory</a></div>
+            
+                <div><a href="http://ohippo.com/topic/59">Vampire</a></div>
+            
+                <div><a href="http://ohippo.com/topic/53">Lord of the Ring</a></div>
+            
+                <div><a href="http://ohippo.com/topic/33">DC Studio</a></div>
+            
+                <div><a href="http://ohippo.com/topic/37">Food</a></div>
+            
+                <div><a href="http://ohippo.com/topic/34">Family</a></div>
+            
+        </div>
+    </div>
+    <script>
+        var more = document.getElementById('header-more');
+        var moreItems = document.getElementById('more-nav-items');
+
+        more.addEventListener('mouseover', showMore);
+        more.addEventListener('mouseout', hideMore);
+        moreItems.addEventListener('mouseover', showMore);
+        moreItems.addEventListener('mouseout', hideMore);
+        function showMore() {
+            moreItems.style.display = 'block';
+        }
+        function hideMore() {
+            moreItems.style.display = 'none';
+        }
+    </script>
+
+    
+
+    <div class="wrap">
+        
+        <div class="main">
+            
+        
+<div class="carousel" id="carousel">
+    <span class="prev" id="prev"></span>
+    <span class="next" id="next"></span>
+</div>
+
+        
+    <div class="home-quiz">
+        <div class="loading-icon"></div>
+        <p class="title-icon"><a href="#">more</a></p>
+        <div class="content" id="content">
+            <div class="left-content"></div>
+            <ul class="right-content"></ul>
+        </div>
+    </div>
+
+        
+    <div class="home-funny">
+        <div class="loading-icon"></div>
+        <p class="title-icon"><a href="#">more</a></p>
+        <div class="content" id="content">
+            <div class="left-content"></div>
+            <ul class="right-content"></ul>
+        </div>
+    </div>
+
+        
+    <div class="home-horoscope">
+        <div class="loading-icon"></div>
+        <p class="title-icon"><a href="#">more</a></p>
+        <div class="content" id="content">
+            <div class="left-content"></div>
+            <ul class="right-content"></ul>
+        </div>
+    </div>
+
+    
+
+            
+            
+        
+    <div class="related" id="related">
+        <div class="load-related" id="load-related"></div>
+        <p class="related-icon"></p>
+        <div class="related-content" id="related-content"></div>
+    </div>
+
+        <div class="load-more" id="load-more"><span class="lm-text">Load More..</span><img class="lm-img" src="/style/quiz/pc/images/load_more.gif" alt=""></div>
+    
+        </div>
+        
+        <aside>
+            
+        
+    <ul class="recommends" id="recommends"></ul>
+
+        
+        
+            <div class="fb-page" data-href="https://www.facebook.com/ohippocom/" data-tabs="timeline" data-width="300" data-height="500" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ohippocom/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ohippocom/"></a></blockquote></div>
+        
+            
+        
+    
+        </aside>
+
+        
+        
+    </div>
+
+    
+        
+    <footer>
+        <div class="footer-content">
+            <div class="footer-content-logo"></div>
+            <div class="footer-content-info">
+                <p><b><i>&copy; 2018</i> oHippo.com</b> All rights reserved.</p>
+            </div>
+            <div class="footer-content-links">
+                <a class="fcl-twitter" href="https://twitter.com/ohippocom" target="_blank">oHippo.com</a>
+                <a class="fcl-facebook" href="https://www.facebook.com/ohippocom" target="_blank">oHippo.com</a>
+            </div>
+        </div>
+    </footer>
+
+    
+
+    
+    
+    <script type="text/javascript" src="/style/quiz/pc/js/lib_05e51b1db5.js"></script>
+    <script type='text/javascript' src='//connect.facebook.net/en_US/sdk.js'></script>
+    <script type="text/javascript">
+    !function e(t,n,i){function o(a,s){if(!n[a]){if(!t[a]){var u="function"==typeof require&&require;if(!s&&u)return u(a,!0);if(r)return r(a,!0);throw new Error("Cannot find module '"+a+"'")}var c=n[a]={exports:{}};t[a][0].call(c.exports,function(e){var n=t[a][1][e];return o(n||e)},c,c.exports,e,t,n,i)}return n[a].exports}for(var r="function"==typeof require&&require,a=0;a<i.length;a++)o(i[a]);return o}({1:[function(e,t,n){!function(e){var i=!1;if("function"==typeof define&&define.amd&&(define(e),i=!0),"object"==typeof n&&(t.exports=e(),i=!0),!i){var o=window.Cookies,r=window.Cookies=e();r.noConflict=function(){return window.Cookies=o,r}}}(function(){function e(){for(var e=0,t={};e<arguments.length;e++){var n=arguments[e];for(var i in n)t[i]=n[i]}return t}function t(n){function i(t,o,r){var a;if("undefined"!=typeof document){if(arguments.length>1){if(r=e({path:"/"},i.defaults,r),"number"==typeof r.expires){var s=new Date;s.setMilliseconds(s.getMilliseconds()+864e5*r.expires),r.expires=s}r.expires=r.expires?r.expires.toUTCString():"";try{a=JSON.stringify(o),/^[\{\[]/.test(a)&&(o=a)}catch(e){}o=n.write?n.write(o,t):encodeURIComponent(String(o)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),t=encodeURIComponent(String(t)),t=t.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent),t=t.replace(/[\(\)]/g,escape);var u="";for(var c in r)r[c]&&(u+="; "+c,!0!==r[c]&&(u+="="+r[c]));return document.cookie=t+"="+o+u}t||(a={});for(var l=document.cookie?document.cookie.split("; "):[],f=/(%[0-9A-Z]{2})+/g,h=0;h<l.length;h++){var d=l[h].split("="),p=d.slice(1).join("=");'"'===p.charAt(0)&&(p=p.slice(1,-1));try{var m=d[0].replace(f,decodeURIComponent);if(p=n.read?n.read(p,m):n(p,m)||p.replace(f,decodeURIComponent),this.json)try{p=JSON.parse(p)}catch(e){}if(t===m){a=p;break}t||(a[m]=p)}catch(e){}}return a}}return i.set=i,i.get=function(e){return i.call(i,e)},i.getJSON=function(){return i.apply({json:!0},[].slice.call(arguments))},i.defaults={},i.remove=function(t,n){i(t,"",e(n,{expires:-1}))},i.withConverter=t,i}return t(function(){})})},{}],2:[function(e,t,n){function i(e,t){var n=t||0,i=o;return i[e[n++]]+i[e[n++]]+i[e[n++]]+i[e[n++]]+"-"+i[e[n++]]+i[e[n++]]+"-"+i[e[n++]]+i[e[n++]]+"-"+i[e[n++]]+i[e[n++]]+"-"+i[e[n++]]+i[e[n++]]+i[e[n++]]+i[e[n++]]+i[e[n++]]+i[e[n++]]}for(var o=[],r=0;r<256;++r)o[r]=(r+256).toString(16).substr(1);t.exports=i},{}],3:[function(e,t,n){(function(e){var n,i=e.crypto||e.msCrypto;if(i&&i.getRandomValues){var o=new Uint8Array(16);n=function(){return i.getRandomValues(o),o}}if(!n){var r=new Array(16);n=function(){for(var e,t=0;t<16;t++)0==(3&t)&&(e=4294967296*Math.random()),r[t]=e>>>((3&t)<<3)&255;return r}}t.exports=n}).call(this,"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],4:[function(e,t,n){function i(e,t,n){var i=t&&n||0;"string"==typeof e&&(t="binary"==e?new Array(16):null,e=null),e=e||{};var a=e.random||(e.rng||o)();if(a[6]=15&a[6]|64,a[8]=63&a[8]|128,t)for(var s=0;s<16;++s)t[i+s]=a[s];return t||r(a)}var o=e("./lib/rng"),r=e("./lib/bytesToUuid");t.exports=i},{"./lib/bytesToUuid":2,"./lib/rng":3}],5:[function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}function o(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}Object.defineProperty(n,"__esModule",{value:!0});var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},a=function(){function e(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(t,n,i){return n&&e(t.prototype,n),i&&e(t,i),t}}(),s=e("js-cookie"),u=i(s),c=e("./show_login_prompt"),l=i(c),f=function(){function e(t,n,i){o(this,e),this.appid=t,this.apiver=n,this.savedFBID=i,this.userProfile=null,this.localeMuid=u.default.get("ohuid"),this.userProfile={}}return a(e,[{key:"init",value:function(e,t){var n=this;if(!e&&!t)throw new Error("need_login && loginCallback is needed!");t||"function"!=typeof e?(this.forceLogin="1"===e,t&&"function"==typeof t&&(this.loginCallback=t)):(this.forceLogin=!1,this.loginCallback=e),FB.init({appId:this.appid,version:this.apiver,cookie:!0,xfbml:!0}),FB.getLoginStatus(function(e){"connected"===e.status?(n.loginFBID=e.authResponse.userID,n.loginFBID===n.savedFBID?n.loginCallback&&r("function"===n.loginCallback)&&n.loginCallback():n.saveUserProfile()):"not_authorized"===e.status?(0,l.default)():(n.forceLogin||"None"!==n.savedFBID&&""!==n.savedFBID)&&(0,l.default)()})}},{key:"saveUserProfile",value:function(){var e=this;this.loginFBID&&this.localeMuid&&FB.api("/"+this.loginFBID+"/?fields=id,name,picture.type(large),email,gender,timezone,locale",function(t){e.userProfile={muid:e.localeMuid,fb_app_id:e.appid,facebook_id:e.loginFBID,user_name:t.name,email:t.email,gender:t.gender,timezone:t.timezone,avatar:t.picture.data.url};var n=e.loginFBID;e.loginFBID="",$.ajax({type:"POST",url:"/ajax/user/store_facebook_info",data:JSON.stringify(e.userProfile),success:function(t){200===t.meta.code&&(e.loginFBID=n,e.loginCallback&&r("function"===e.loginCallback)&&e.loginCallback())},contentType:"application/json"})})}}]),e}();n.default=f},{"./show_login_prompt":7,"js-cookie":1}],6:[function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}function o(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}Object.defineProperty(n,"__esModule",{value:!0});var r=function(){function e(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(t,n,i){return n&&e(t.prototype,n),i&&e(t,i),t}}(),a=e("js-cookie"),s=i(a),u=e("uuid/v4"),c=i(u),l=function(){function e(t){o(this,e),this.domain=t,this.language=navigator.language,this.lang=this.language,this.country="",this.supportCookie=!1,this.init()}return r(e,[{key:"init",value:function(){var e=s.default.get("is_registed"),t=s.default.get("ohuid");t?(this.ohuid=t,"true"!==e&&this.register()):(this.ohuid=(0,c.default)(),this.setOhuidToCookie())}},{key:"setOhuidToCookie",value:function(){for(var e=0;e<3&&!this.supportCookie;)e++,s.default.set("ohuid",this.ohuid,{expires:365,path:"/",domain:this.domain}),s.default.get("ohuid")===this.ohuid&&(this.supportCookie=!0);!0===this.supportCookie?this.register():(this.ohuid="",alert("Your browser does not have cookies enabled. Please continue with cookies in your browser preferences."))}},{key:"register",value:function(){var e=this;-1!=this.language.indexOf("-")&&(this.lang=this.language.split("-")[0].toLowerCase(),this.country=this.language.split("-")[1].toLowerCase());var t={muid:this.ohuid,language:this.lang,country:this.country};$.ajax({type:"POST",url:"/ajax/user/register",data:JSON.stringify(t),success:function(t){200===t.meta.code?s.default.set("is_registed",!0,{expires:365,path:"/",domain:e.domain}):s.default.set("is_registed",!1,{expires:365,path:"/",domain:e.domain})},contentType:"application/json"})}}]),e}();n.default=l},{"js-cookie":1,"uuid/v4":4}],7:[function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e){if(1==e)$("#modal").fadeIn();else{if(1==r.default.get("laterLogin"))return;$("#modal").fadeIn()}};var o=e("js-cookie"),r=i(o)},{"js-cookie":1}],8:[function(e,t,n){"use strict";function i(){var e={rank_list:"ohippo_internal_list:Hottest",direction:"down",count:5};$.ajax({type:"POST",url:"/ajax/recommend/list",data:JSON.stringify(e),success:function(e){200==e.meta.code&&e.data&&e.data.length>0?e.data.forEach(function(e,t,n){var i=['<li style="background: url('+e.cover_image+'?mw=400) center center no-repeat; background-size: cover; background-color: #d8d8d8;">','<a href="'+e.url+'">',"<p>"+e.title+"</p>","</a>","</li>"].join("");$("#recommends").append(i)}):$("#recommends").hide()},contentType:"application/json"})}Object.defineProperty(n,"__esModule",{value:!0}),n.default=i},{}],9:[function(e,t,n){"use strict";function i(e){for(var t in e)return!1;return!0}Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e){if(!i(e.userProfile)){var t=e.userProfile,n=t.user_name,o=t.avatar;if(!n&&!o)return;if($("#header-login").html(""),n&&"None"!==n&&n.length>0){var r=$('<p class="username">'+n+"</p>");$("#header-login").append(r)}if(o){var a=$('<span class="portrait"><img src="'+o+'" alt="" /></span>');$("#header-login").append(a)}}}},{}],10:[function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}function o(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}Object.defineProperty(n,"__esModule",{value:!0});var r=function(){function e(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(t,n,i){return n&&e(t.prototype,n),i&&e(t,i),t}}(),a=e("js-cookie"),s=i(a),u=function(){function e(t,n){o(this,e),this.fbHelper=t,this.domain=n.domain,this.username=n.username,this.portrait=n.portrait,this.el=n.el,this.init()}return r(e,[{key:"init",value:function(){var e='<p class="login-btn" id="login-btn">LOGIN</p>';e=this.username&&"None"!=this.username?['<p class="username">'+this.username+"</p>",'<span class="portrait">','<img src="'+this.portrait+'" alt="">',"</span>"].join(""):'<p class="login-btn" id="login-btn">LOGIN</p>',$("body").append('<div class="modal" id="modal">\n            <div class="modal-body">\n                <div class="hi-icon"></div>\n                <p class="tip">Sign in to take advantage of our advanced features and to gain better experience!</p>\n                <p class="fb-login" id="fb-login"><span>Log in with Facebook</span></p>\n                <p class="privacy"><a href="http://ohippo.com/privacy.html" target="_blank">Privacy Policy</a></p>\n                <p class="later" id="later">LATER</p>\n            </div>\n        </div>'),$(this.el).append(e),this.bindEvents()}},{key:"bindEvents",value:function(){var e=this;$("#fb-login").bind("click",function(){e.FBLoginRedirect()}),$("#later").bind("click",function(){$("#modal").hide(),s.default.set("laterLogin",1,{path:"/",domain:e.domain})}),$("#login-btn").bind("click",function(){$("#modal").fadeIn()})}},{key:"FBLoginRedirect",value:function(){this.fbHelper.loginFBID&&location.reload();var e="https://www.facebook.com/"+this.fbHelper.apiver+"/dialog/oauth?";e+="client_id="+this.fbHelper.appid,e+="&redirect_uri="+encodeURIComponent(location.href),e+="&scope=public_profile,email,user_friends",location.href=e}}]),e}();n.default=u},{"js-cookie":1}],11:[function(e,t,n){"use strict";function i(){var e={rank_list:"ohippo_internal_list:Newest",direction:"down",count:6};$.ajax({type:"POST",url:"/ajax/recommend/list",data:JSON.stringify(e),success:function(t){if(200==t.meta.code&&t.data&&t.data.length>0){$("#load-related").hide();var n=$("<ul></ul>");t.data.forEach(function(e,t,i){t>0&&t%3==0&&($("#related-content").append(n),n=$("<ul></ul>"));var o=["<li>",'<a href="'+e.url+'">','<div class="cover_image" style="background: url('+e.cover_image+'?mw=300) center center no-repeat; background-size: cover; background-color:#f5f5f5;"></div>',"<p>"+e.title+"</p>","</a>","</li>"].join("");n.append(o),t==i.length-1&&$("#related-content").append(n)}),t.data.length<6&&$("#load-more").hide(),e.nearest_content_id=t.data[t.data.length-1].content_id,e.nearest_content_business_module=t.data[t.data.length-1].business_module}else $("#related").hide(),$("#load-more").hide()},contentType:"application/json"}),$("#load-more").bind("click",function(){$(".lm-text").hide(),$(".lm-img").show(),$.ajax({type:"POST",url:"/ajax/recommend/list",data:JSON.stringify(e),success:function(t){if(200==t.meta.code&&t.data&&t.data.length>0){var n=$("<ul></ul>");t.data.forEach(function(e,t,i){t>0&&t%3==0&&($("#related-content").append(n),n=$("<ul></ul>"));var o=["<li>",'<a href="'+e.url+'">','<div class="cover_image" style="background: url('+e.cover_image+'?mw=300) center center no-repeat; background-size: cover; background-color:#f5f5f5;"></div>',"<p>"+e.title+"</p>","</a>","</li>"].join("");n.append(o),t==i.length-1&&$("#related-content").append(n)}),t.data.length<6&&$("#load-more").hide(),e.nearest_content_id=t.data[t.data.length-1].content_id,e.nearest_content_business_module=t.data[t.data.length-1].business_module}else $("#load-more").hide();$(".lm-text").show(),$(".lm-img").hide()},contentType:"application/json"})})}Object.defineProperty(n,"__esModule",{value:!0}),n.default=i},{}],12:[function(e,t,n){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e){FB.ui({method:"share",display:"popup",href:e},function(e){})}},{}],13:[function(e,t,n){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e){FB.ui({method:"send",display:"popup",link:e},function(e){})}},{}],14:[function(e,t,n){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e,t){var n="//www.reddit.com/submit?url="+encodeURIComponent(t);n+="&title="+encodeURIComponent(e),location.href=n}},{}],15:[function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(n,"__esModule",{value:!0});var o=e("./pc_fb_share"),r=i(o),a=e("./pc_messenger_share"),s=i(a),u=e("./pc_twitter_share"),c=i(u),l=e("./pc_reddit_share"),f=i(l);n.default={shareFacebook:r.default,shareMessenger:s.default,shareTwitter:c.default,shareReddit:f.default}},{"./pc_fb_share":12,"./pc_messenger_share":13,"./pc_reddit_share":14,"./pc_twitter_share":16}],16:[function(e,t,n){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e,t,n){var i,o="",r="",a="https://twitter.com/intent/tweet?text=";n.length>0&&(r="&via="+(0==n.indexOf("@")?n.substring(1):n)),o=e+t+n,i=o.length>140?a+"&url="+encodeURIComponent(t)+r:a+encodeURIComponent(e)+"&url="+encodeURIComponent(t)+r,location.href=i}},{}],17:[function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}function o(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}Object.defineProperty(n,"__esModule",{value:!0});var r=function(){function e(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(t,n,i){return n&&e(t.prototype,n),i&&e(t,i),t}}(),a=e("./funcs/pc_share"),s=i(a),u=e("../../../../../common/show_login_prompt"),c=i(u),l=function(){function e(t,n){o(this,e),this.fbHelper=t,this.title=n.title,this.shareUrl=n.shareUrl,this.twname=n.twname,this.checkParams()}return r(e,[{key:"checkParams",value:function(){this.title,this.shareUrl,this.twname;if(!this.fbHelper.appid)throw new Error("first argument should be fbHelper!");this.init()}},{key:"init",value:function(){var e=['<div class="minor-share" id="minor-share">','<span class="facebook" id="facebook-aside-btn"></span>','<span class="messenger" id="messenger-aside-btn"></span>','<span class="twitter" id="twitter-aside-btn"></span>','<span class="reddit" id="reddit-aside-btn"></span>','<span class="go-back-top" id="go-back-top"></span>',"</div>"].join("");$("body").append(e),this.bindEvents()}},{key:"bindEvents",value:function(){var e=this;$("#minor-share").css("left",$(".wrap").offset().left-52),$("#facebook-aside-btn").bind("click",function(){e.fbHelper.loginFBID?s.default.shareFacebook(e.shareUrl):(0,c.default)(!0)}),$("#twitter-aside-btn").bind("click",function(){s.default.shareTwitter(e.title,e.shareUrl,e.twname)}),$("#messenger-aside-btn").bind("click",function(){e.fbHelper.loginFBID?s.default.shareMessenger(e.shareUrl):(0,c.default)(!0)}),$("#reddit-aside-btn").bind("click",function(){s.default.shareReddit(e.title,e.shareUrl)}),$("#go-back-top").bind("click",function(){$("body,html").animate({scrollTop:0},500)}),$(window).resize(function(e){$("#minor-share").css("left",$(".wrap").offset().left-52)})}}]),e}();n.default=l},{"../../../../../common/show_login_prompt":7,"./funcs/pc_share":15}],18:[function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}function o(){function e(){$(".carousel-img").eq(i).fadeOut(500),$(".link").eq(i).hide(),i++,i>=o&&(i=0),0===i&&$("#co-cover").css("left","-50px"),$(".carousel-img").eq(i).fadeIn(500),$(".link").eq(i).show()}function t(){$(".carousel-img").eq(i).fadeOut(500),$(".link").eq(i).hide(),i--,i<=-1&&(i=5,$("#co-cover").css("left","200px")),$(".carousel-img").eq(i).fadeIn(500),$(".link").eq(i).show()}var n,i=0,o=6;$.ajax({type:"POST",url:"/ajax/recommend/home_slide",data:JSON.stringify({site:"ohippo.com"}),success:function(e){200===e.meta.code&&e.data&&e.data.length>0&&(e.data.forEach(function(e,t,n){var i=['<div class="carousel-img" style="background: url('+e.image+'?mw=700) center center; background-size: cover;"></div>','<a class="link" title="'+e.title+'" href="'+e.url+'"><p class="title">'+e.title+"</p></a>"].join("");$("#carousel").append(i),0===t?$("#carousel-order").append($('<li class="co-show" data-index="'+t+'"></li>')):$("#carousel-order").append($('<li data-index="'+t+'"></li>'))}),o=e.data.length,$("#carousel-order").append($('<p id="co-cover" class="co-cover"></p>')))},contentType:"application/json"}),$("#next").click(function(){e()}),$("#prev").click(function(){t()}),$("#carousel").mouseover(function(){clearInterval(n)}),$("#carousel").mouseleave(function(){n=setInterval(function(){e()},3e3)}),$(".carousel-order").delegate("li","click",function(){var e=$(this).data(e).index;$(".carousel-img").eq(i).fadeOut(500),$(".link").eq(i).hide(),i=e,$(".carousel-img").eq(i).fadeIn(500),$(".link").eq(i).show()}),n=setInterval(function(){e()},3e3)}function r(e,t,n){$.ajax({type:"post",url:"/ajax/recommend/list",data:JSON.stringify({rank_list:e,direction:"down",count:4}),contentType:"application/json",success:function(e){$(".home-"+t+" .loading-icon").hide(),200===e.meta.code&&e.data&&e.data.length>0?(e.data.forEach(function(e,n){if(0===n){var i=$('<a href="'+e.url+'"><div class="cover-image" style="background: url('+e.cover_image+'?mw=400) center center no-repeat; background-size: cover; background-color: #e6e6e6"></div><p class="title">'+e.title+"</p></a>");$(".home-"+t+" .content .left-content").append(i)}else{var o=$('<li><a href="'+e.url+'"><div class="cover-image" style="background: url('+e.cover_image+'?mw=400) center center no-repeat; background-size: cover; background-color: #e6e6e6"></div><p class="title">'+e.title+"</p></a></li>");$(".home-"+t+" .content .right-content").append(o)}}),$(".home-"+t+" .title-icon a").attr("href",n)):$(".home-"+t).hide()}})}var a=e("js-cookie"),s=(i(a),e("../../../../common/fb_helper")),u=i(s),c=e("../../../../common/show_login_prompt"),l=(i(c),e("../../../../common/register")),f=i(l),h=e("../common/aside/mod_aside"),d=i(h),p=e("../common/related/mod_latest"),m=i(p),v=e("../common/share/minor_share_without_behavior"),g=i(v),y=e("../common/mod_login_prompt"),b=i(y),w=e("../common/fn_reset_user_info"),_=i(w);$(function(){var e=new u.default("734225890053777","v2.8","");new b.default(e,{domain:"ohippo.com",username:"",portrait:"",el:"#header-login"}),new f.default("ohippo.com"),new g.default(e,{title:"oHippo.com",twname:"@ohippocom",shareUrl:"http://ohippo.com"}),(0,d.default)(),(0,m.default)(),o(),[{rankList:"horo_internal_list_u1:Newest",type:"horoscope",url:"http://horoscope.ohippo.com"},{rankList:"ohippo_topic_menu1:Quiz",type:"quiz",url:"/topic/27"},{rankList:"ohippo_topic_menu1:Funny",type:"funny",url:"/topic/28"}].forEach(function(e){r(e.rankList,e.type,e.url)}),e.init("",function(){$("#start-tip").hide(),(0,_.default)(this)})})},{"../../../../common/fb_helper":5,"../../../../common/register":6,"../../../../common/show_login_prompt":7,"../common/aside/mod_aside":8,"../common/fn_reset_user_info":9,"../common/mod_login_prompt":10,"../common/related/mod_latest":11,"../common/share/minor_share_without_behavior":17,"js-cookie":1}]},{},[18]);
+    </script>
+    
+
+</body>
+</html>
